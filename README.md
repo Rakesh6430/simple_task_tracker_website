@@ -2,7 +2,7 @@
 
 A clean, modern, and fully functional **Daily Task Tracker** website that helps you organize your daily activities, stay productive, and never miss a task. Your tasks are automatically saved in your browser's local storage, so you never lose your progress — even after closing the browser.
 
-🔗 **Live Demo:** [https://rakesh6430.github.io/simple_task_tracker_website/](#) *(Replace with your live link)*
+🔗 **Live Demo:** [https://rakesh6430.github.io/simple_task_tracker_website/]
 
 ---
 
